@@ -1,0 +1,28 @@
+header{
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+h1{
+    text-align: center;
+}
+
+.box{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  display: flex;
+  justify-content:space-around;
+  gap: 100px;
+}
+.box1{
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+footer{
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
